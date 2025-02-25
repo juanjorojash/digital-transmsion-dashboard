@@ -2,7 +2,7 @@
 
 A simple Streamlit app showing an example of a simple digital transimisión of a number
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adc-dashboard.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digital-tranmission.streamlit.app/)
 
 ### How to run it on your own machine
 

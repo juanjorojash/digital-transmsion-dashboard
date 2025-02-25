@@ -4,8 +4,8 @@ import numpy as np
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-    page_title='SAR ADC dashboard',
-    page_icon=':level_slider:', # This is an emoji shortcode. Could be a URL too.
+    page_title='Digital transmission dashboard',
+    page_icon=':robot_face:', # This is an emoji shortcode. Could be a URL too.
 )
 
 # -----------------------------------------------------------------------------
